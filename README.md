@@ -1,1 +1,1 @@
-This is an attendance tracking application.
+This is an tracking application.
